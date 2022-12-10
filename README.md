@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Machine-Learning-model-to-predict-Median-House-values            |  A machine learning model designed using the stochastic gradient descent and random forest to predict median house values while adopting the CRISP DM framework           |https://github.com/winifred-kay/Machine-Learning-model-to-predict-Median-House-values.git     |
+| 2 |  Data-manipulation-with-Pandas           | This project explores the basics of creating a dataframe in pandas and some basic data manipulations            |https://github.com/winifred-kay/Data-manipulation-with-Pandas.git      |
+| 3 | Image-Shifting-in-machine-Learning           |  This project explains how images are shift using the popular mnist dataset            | https://    https://github.com/winifred-kay/Image-Shifting-in-machine-Learning.gitImage-Shifting-in-machine-Learning   |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
